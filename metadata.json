@@ -1,0 +1,6 @@
+{
+  "name": "POWER RUNNER 3D",
+  "description": "High-speed 3D endless runner game across five dynamic worlds with power-ups, unlockable characters, missions, and responsive touch and keyboard controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
